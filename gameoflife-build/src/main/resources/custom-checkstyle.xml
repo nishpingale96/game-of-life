@@ -13,7 +13,7 @@ Slightly modified version of Sun Checks that better matches the default code for
 <module name="Checker">
     <property name="severity" value="warning"/>
     <module name="TreeWalker">
-        <property name="tabWidth" value="4"/>
+        <property name="tabWidth" value="5"/>
         <module name="ConstantName"/>
         <module name="LocalFinalVariableName"/>
         <module name="LocalVariableName"/>
